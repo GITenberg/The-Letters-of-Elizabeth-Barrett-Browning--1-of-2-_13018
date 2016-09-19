@@ -1,0 +1,37 @@
+_repo: The-Letters-of-Elizabeth-Barrett-Browning--1-of-2-_13018
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browning, Elizabeth Barrett
+    alias: Barrett-Browning, Elizabeth
+    birthdate: 1806
+    deathdate: 1861
+    gutenberg_agent_id: '781'
+    url: http://www.gutenberg.org/2009/agents/781
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning
+  editor:
+    agent_name: Kenyon, Frederic G. (Frederic George), Sir
+    aliases:
+    - Kenyon, F. G. (Frederic George), Sir
+    - Kenyon, Frederic George, Sir
+    birthdate: 1863
+    deathdate: 1952
+    gutenberg_agent_id: '4780'
+    url: http://www.gutenberg.org/2009/agents/4780
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_G._Kenyon
+description: ''
+gutenberg_issued: '2004-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browning, Elizabeth Barrett, 1806-1861 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 19th century -- Correspondence'
+- GITenberg
+title: The Letters of Elizabeth Barrett Browning (Volume 1 of 2)
+url: http://www.gutenberg.org/ebooks/13018
